@@ -1,6 +1,6 @@
 {
   "name": "touteta",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get the state of all git repos within a directory",
   "keywords": [
     "commandline",

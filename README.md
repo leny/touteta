@@ -42,7 +42,7 @@ Output usage information.
 
 ##### version (`-v`,`--version`)
 
-Output **touteta**' version number.
+Output **touteta** version number.
 
 ## Contributing
 
@@ -50,7 +50,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
-* **0.1.0**: Initial release (*XX/07/16*)
+* **0.1.0**: Initial release (*07/07/16*)
 
 ## License
 Copyright (c) 2016 Leny  
